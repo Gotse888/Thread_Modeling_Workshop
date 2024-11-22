@@ -8,7 +8,7 @@ Care Connect Eng team, Product Managers, DevEx Engineers and the DevSecOps Team.
 ## Methodology
 All scenarios were run against the cyber attack killchain, utilising the Mitre Att&ack methods and STRIDE for control gap assessments. Culminating in identified risks.
 ## Conclusion
-A total of 4 high risks and 3 medium risks were found during the threat modelling workshop.
+A total of 4 high risks and 3 medium risks were found during the threat modelling workshop..
 ## Controls Required
 - Regular security audits specifically targeting the Solaris Health 360 application to detect vulnerabilities and weaknesses in its security measures.
 - Patch management to ensure the Solari Health 360 application and its underlying technologies are up-to-date and protected against known vulnerabilities.
